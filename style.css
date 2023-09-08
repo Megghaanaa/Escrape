@@ -1,0 +1,13 @@
+body
+{
+    /* width: 150px; */
+    height: 100px;
+
+    
+}
+#scrapeEmails{
+   background-color: rgb(255, 234, 2);
+   color: black;
+   width: 120px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
